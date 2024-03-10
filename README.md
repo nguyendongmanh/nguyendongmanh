@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manh Nguyen Dong</h1>
-<h3 align="center">A passionate Machine Learning Engineering from Vietnam</h3>
+<h3 align="center">A passionate Machine Learning Engineering</h3>
 
+- 🔭 I’m currently studying **Computer Science (DS&AI)**
 - 🌱 I’m currently learning **ReactJS and some techniques in Frontend Dev**
 
 <h3 align="left">Connect with me:</h3>
