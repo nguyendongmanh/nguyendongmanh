@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19363
-Fork on GitHub
-5758
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Manh Nguyen Dong</h1>
 <h3 align="center">A passionate Machine Learning Engineering from Vietnam</h3>
 
