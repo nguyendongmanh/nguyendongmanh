@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying on **Computer Science (DS&AI)**<br>🌱 I’m currently learning Docker, Computer Vision, LLMs</p>
+<p align="left">🔭 I’m currently studying on <strong>Computer Science (DS&AI)</strong> <br>🌱 I’m currently learning <strong>Docker, Computer Vision, LLMs</strong></p>
 
 ###
 
@@ -84,8 +84,5 @@
   <img src="https://profile-counter.glitch.me/nguyendongmanh/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nguyendongmanh/nguyendongmanh/output/snake.svg" alt="Snake animation" />
 
 ###
