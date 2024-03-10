@@ -25,4 +25,6 @@
 
 * Some projects are pinned below
 
+Although my profile is not good now, but i will manage to improve my skills in near future!
+
 **Thanks for visiting my github, please give me a star. Many thanks**
