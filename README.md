@@ -38,4 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=nguyendongmanh&icon=0&color=0)]
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nguyendongmanh/count.svg?" />
+</div>
