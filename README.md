@@ -31,7 +31,6 @@
 # 📊 GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendongmanh&" alt="nguyendongmanh" /></p>
 
 ### ✍️ Interested Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
