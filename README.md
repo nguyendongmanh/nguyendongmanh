@@ -29,8 +29,9 @@
 ## DevOps:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
+</div>
 
 ### ✍️ Interested Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
