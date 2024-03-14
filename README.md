@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="qoute" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently studying on **Computer Science (DS&AI)**.<br>🌱 I’m currently learning **Machine Learning**, **Deep learning** and its application in **Computer Vision** and **NLP**.<br>💬 ​I know there is so much knowledge I don't know, but ask me, and we can discuss it together.<br>
 
@@ -32,11 +36,6 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
 </div>
-
-### ✍️ Interested Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nguyendongmanh/count.svg?" />
