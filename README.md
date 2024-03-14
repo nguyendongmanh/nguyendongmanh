@@ -30,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&locale=en" alt="nguyendongmanh" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendongmanh&" alt="nguyendongmanh" /></p>
 
 ### ✍️ Interested Quote
