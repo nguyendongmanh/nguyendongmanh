@@ -3,7 +3,7 @@
 <!-- ─────────────  HEADER  ───────────── -->
 
 <a href="https://github.com/nguyendongmanh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manh%20Nguyen%20Dong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20•%20Data%20Science%20%26%20AI&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manh%20Nguyen%20Dong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Data%20Science%20%26%20AI&descAlignY=55&descSize=18" alt="header" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Software+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Turning+data+into+products+that+ship" alt="Typing SVG" />
@@ -91,8 +91,8 @@ class ManhNguyenDong:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyendongmanh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendongmanh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=36BCF7" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyendongmanh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyendongmanh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=36BCF7" alt="Top languages" />
 
 <br/>
 
@@ -100,7 +100,7 @@ class ManhNguyenDong:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nguyendongmanh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=nguyendongmanh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br/>
 
@@ -114,11 +114,18 @@ class ManhNguyenDong:
 
 <div align="center">
 
+<!--
+  ⚠️ BẬT SAU KHI CHẠY ACTION: vào tab Actions → "Generate Contribution Snake" → Run workflow.
+  Action sẽ tạo branch `output` chứa file SVG. Khi branch đó đã có, xoá dòng comment này
+  và dòng "--\>" ở cuối khối để hiện animation.
+-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyendongmanh/nguyendongmanh/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyendongmanh/nguyendongmanh/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyendongmanh/nguyendongmanh/output/github-contribution-grid-snake.svg" />
 </picture>
+-->
 
 </div>
 
