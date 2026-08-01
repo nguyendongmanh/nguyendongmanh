@@ -2,9 +2,7 @@
 
 <!-- ─────────────  HEADER  ───────────── -->
 
-<a href="https://github.com/nguyendongmanh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manh%20Nguyen%20Dong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Data%20Science%20%26%20AI&descAlignY=55&descSize=18" alt="header" />
-</a>
+<h1>Hi there, I'm Manh Nguyen Dong 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Software+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Turning+data+into+products+that+ship" alt="Typing SVG" />
 
@@ -99,10 +97,6 @@ class ManhNguyenDong:
 <img height="165" src="https://streak-stats.demolab.com?user=nguyendongmanh&hide_border=true&theme=tokyonight&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
 
 <br/><br/>
-
-<img src="https://github-trophies.vercel.app/?username=nguyendongmanh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendongmanh&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=36BCF7&point=ffffff" alt="Activity graph" />
 
